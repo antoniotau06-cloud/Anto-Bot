@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Gino",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Gino",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "AntoPatanto.aternos.me",
-    "port": 51802,
+    "ip": "SchimicatiSMP.aternos.me",
+    "port": 19723,
     "version": "",
     "try-creative": false
   },
