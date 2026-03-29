@@ -8,7 +8,7 @@
   "server": {
     "ip": "SchimicatiSMP.aternos.me",
     "port": 19723,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
